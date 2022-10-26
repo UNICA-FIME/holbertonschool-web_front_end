@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
 	--nav-item-letter-spacing:0.04rem;
 	--nav-item-display: inline-block;
 	--nav-item-margin: 0 0 3rem 0; 
-	--nav-item-link-hover: var(--color-primary);
+	--nav-item-link-hover: var(--color-white);
 	--section-tagline-margin: 0;
         --button-display: inline-block;
         --button-padding: 1.5rem 3rem;
@@ -269,6 +269,7 @@ h1, h2, h3, h4, h5, h6 {
 	--header-logo-link-position: absolute;
 	--header-logo-link-top: -1rem;
 	--header-logo-link-left: 0;
+
 }
 .footer-copyright {
     margin: 0;
