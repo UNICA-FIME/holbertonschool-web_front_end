@@ -52,14 +52,12 @@ a:active {
 
 }
 .section-body {
-        text-align: var(--section-body-padding);
 	padding-left: var(--section-body-padding);
         padding-right: var(--section-body-padding);
         padding-top: var(--section-body-padding);
         padding-bottom: var(--section-body-padding);
 }
 .section-footer {
-        text-align: var(--section-footer-padding);
         padding-left: var(--section-footer-padding);
         padding-right: var(--section-footer-padding);
         padding-top: var(--section-footer-padding);
